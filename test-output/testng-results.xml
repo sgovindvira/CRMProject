@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-05T11:58:25 EST" name="Default suite" finished-at="2022-12-05T11:58:38 EST" duration-ms="13400">
+    <groups>
+    </groups>
+    <test started-at="2022-12-05T11:58:25 EST" name="Default test" finished-at="2022-12-05T11:58:38 EST" duration-ms="13400">
+      <class name="com.crm.qa.testcases.LoginPageTest01">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginPageTest01@70e9c95d]" started-at="2022-12-05T11:58:25 EST" name="setup" finished-at="2022-12-05T11:58:31 EST" duration-ms="6520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginPageGetTitle()[pri:1, instance:com.crm.qa.testcases.LoginPageTest01@70e9c95d]" started-at="2022-12-05T11:58:31 EST" name="loginPageGetTitle" finished-at="2022-12-05T11:58:31 EST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageGetTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest01@70e9c95d]" started-at="2022-12-05T11:58:31 EST" name="teardown" finished-at="2022-12-05T11:58:32 EST" duration-ms="759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginPageTest01@70e9c95d]" started-at="2022-12-05T11:58:32 EST" name="setup" finished-at="2022-12-05T11:58:37 EST" duration-ms="4725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logintest()[pri:2, instance:com.crm.qa.testcases.LoginPageTest01@70e9c95d]" started-at="2022-12-05T11:58:37 EST" name="logintest" finished-at="2022-12-05T11:58:37 EST" duration-ms="487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest01@70e9c95d]" started-at="2022-12-05T11:58:37 EST" name="teardown" finished-at="2022-12-05T11:58:38 EST" duration-ms="809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTest01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
